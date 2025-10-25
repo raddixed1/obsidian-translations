@@ -1,4 +1,7 @@
 {
+  "name": "Bulgarian",
+  "display": "Български",
+  "id": "bg",
 	"setting": {
 		"options": "Настойки",
 		"plugin": "Плъгин",
